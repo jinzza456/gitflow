@@ -1,1 +1,3 @@
 this is master branch 1
+edited from develop branch 2
+edited from feature branch 3
